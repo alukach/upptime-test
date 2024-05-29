@@ -13,7 +13,7 @@
     "time": 133,
     "timeDay": 380,
     "timeWeek": 135,
-    "timeMonth": 133,
+    "timeMonth": 142,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -33,7 +33,7 @@
     "time": 353,
     "timeDay": 133,
     "timeWeek": 259,
-    "timeMonth": 353,
+    "timeMonth": 340,
     "timeYear": 353,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 459,
-    "timeWeek": 378,
-    "timeMonth": 314,
-    "timeYear": 314,
-    "dailyMinutesDown": {}
+    "time": 312,
+    "timeDay": 352,
+    "timeWeek": 365,
+    "timeMonth": 319,
+    "timeYear": 312,
+    "dailyMinutesDown": {
+      "2024-05-29": 0
+    }
   },
   {
     "name": "Test Broken Site",
