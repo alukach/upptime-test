@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 135,
-    "timeDay": 61,
-    "timeWeek": 141,
-    "timeMonth": 142,
-    "timeYear": 135,
+    "time": 134,
+    "timeDay": 105,
+    "timeWeek": 147,
+    "timeMonth": 143,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2024-05-01": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 150,
-    "timeWeek": 209,
-    "timeMonth": 323,
-    "timeYear": 339,
+    "time": 335,
+    "timeDay": 180,
+    "timeWeek": 204,
+    "timeMonth": 328,
+    "timeYear": 335,
     "dailyMinutesDown": {}
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 452,
-    "timeWeek": 347,
-    "timeMonth": 318,
-    "timeYear": 311,
+    "time": 316,
+    "timeDay": 487,
+    "timeWeek": 353,
+    "timeMonth": 328,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-05-31": 0
+      "2024-05-31": 9
     }
   },
   {
