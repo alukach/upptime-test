@@ -44,18 +44,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 487,
     "timeWeek": 353,
     "timeMonth": 328,
     "timeYear": 316,
-    "dailyMinutesDown": {
-      "2024-05-31": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
